@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mark+Allen!+😊;+Call+me+Mallen+for+short+✨" />
 </h1>
 
-**shetbricks21/shetbricks21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MallenCode** is a ✨ _special_ ✨ repository because it is my main Github page where most of my projects are found. 
+⛰️ It is a **journey** documented through the code I publish! ⛰️
 
 Here are some ideas to get you started:
 
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **NextJs 14 and building a full-stack e-commerce website**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **C-programming and Javascript questions.**
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+    <a href="https:facebook.com/Mark.of.Marks">Facebook</a>
 - 😄 Pronouns: **He/Him. Respecting is key but I generally don't mind being misgendered.**
 - ⚡ Fun fact: **I enrolled for Engineering courses but stuck with my passion for coding!**
