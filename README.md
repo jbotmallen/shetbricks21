@@ -1,6 +1,6 @@
 <img style="height:300px; width:50vw; object-fit:fill;" align="center" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Shadows+Into+Light&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+ 😊+I'm+Mark+Allen!+😊; " />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Acme&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+ 😊+I'm+Mark+Allen!+😊; " />
 </h1>
 
 **shetbricks21/shetbricks21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
