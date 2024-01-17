@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Mark Allen Jugalbot! You can call me Mallen. Let's get along in this coding journey.
+
 
 <!--
 **shetbricks21/shetbricks21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
