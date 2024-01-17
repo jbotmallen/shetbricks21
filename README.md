@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mark+Allen!+😊;+Call+me+Mallen+for+short+✨" />
 </h1>
 
-**MallenCode** is a ✨ _special_ ✨ repository because it is my main Github page where most of my projects are found. 
+**MallenCode** is a ✨ _special_ ✨ repository because it is my main Github page where most of my projects are found. <br>
 ⛰️ It is a **journey** documented through the code I publish! ⛰️
 
 Here are some ideas to get you started:
