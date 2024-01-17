@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a personal project called <a href="#">Scopify</a>**
 - 🌱 I’m currently learning **NextJs 14 and building a full-stack e-commerce website**
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with **NextJs configurations, setups, and project structure.**
 - 💬 Ask me about **C-programming and Javascript questions.**
-- 📫 How to reach me:
-    <a href="https:facebook.com/Mark.of.Marks">Facebook</a>
 - 😄 Pronouns: **He/Him. Respecting is key but I generally don't mind being misgendered.**
 - ⚡ Fun fact: **I enrolled for Engineering courses but stuck with my passion for coding!**
