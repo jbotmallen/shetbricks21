@@ -2,6 +2,9 @@
 <h1 style="font-weight: bold; letter-spacing: 10px; text-align: center; width: 100%">Hi there 👋 My name is Mark Allen Jugalbot! You can call me Mallen. Let's get along in this coding journey.</h1>
 
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mark+Allen!;" />
+</h1>
 
 **shetbricks21/shetbricks21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
